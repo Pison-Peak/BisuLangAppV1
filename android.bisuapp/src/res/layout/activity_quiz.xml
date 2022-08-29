@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="1" android:id="false" android:paddingLeft="16dp" android:paddingTop="16dp" android:paddingRight="16dp" android:paddingBottom="16dp" android:layout_width="-1" android:layout_height="-2">
+		<RelativeLayout android:layout_width="-1" android:layout_height="50dp">
+			<ImageView android:id="false" android:layout_width="-1" android:layout_height="-1" android:src="res/mipmap-xxxhdpi-v4/ic_launcher.png" android:cropToPadding="true" />
+		</RelativeLayout>
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="1. How many Villages Speak Bisu Language In Obanliku LGA of Cross River State Nigeria?" />
+		<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:checked="false" android:text="Two: Thailand and Obanliku" />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:checked="false" android:text="None of the Above" />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:checked="false" android:text="Four: Busanfong, Bayaga, Bukumaya, and Bayayam village" />
+		</RadioGroup>
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="2. Bisu Language is Spoken in Obanliku and Thailand. True or False?" />
+		<EditText android:textSize="16sp" android:id="false" android:layout_width="351dp" android:layout_height="-2" android:hint="try google ............!" android:inputType="0x1" />
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="3. Obudu Ranch Resort with Bebi air strip and Cable Car is located in ..........." />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Obanliku, Cross River State, Nigeria" />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Obudu, Cross River State" />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Nigeria,Canada" />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Africa,Thailand" />
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="4. The International Event Obudu Mountain Race, is done in.....?" />
+		<EditText android:id="false" android:layout_width="351dp" android:layout_height="-2" android:hint="Name location, LGA, State, Country." android:inputType="0x1" android:imeOptions="0x6" />
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="5 In which domain(s) is the Bisu local language primarily spoken?" />
+		<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Only for Spiritual Incantations." />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="At Home, farm, playground (village square), village meetings, market, church and during hunting. Furthermore, for songs, riddles, jokes, stories and parables." />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Multi-computer-Language-Tablet." />
+		</RadioGroup>
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="6. Some Languages Commonly Spoken In Obanliku include..........?" />
+		<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Bisu, Busi, Basang, Bishiri, Bebi, Bendi, and Bette" />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="HTML, Python, JavaScript, CSS, Java, Kotlin etc" />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Money Language, Body Language, Heavenly Language." />
+		</RadioGroup>
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="7. Which of the following Countries and States, Local Government Areas, Share Boundaries with Obanliku?" />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Cameroon, Benue State, Obudu LGA, and Boki LGA" />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Busi, Bisu, Ketting, Bendigie, Shikpeche, Blokonu, Bayasong" />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Kakwe, Utuhu, Lishiche, Belisa, Buya" />
+		<CheckBox android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Ablesang, Bebi, Bishiri, Basang" />
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="8. Where in the internet can you Download BisuApp (Bisu Language App)?" />
+		<EditText android:id="false" android:layout_width="351dp" android:layout_height="-2" android:text="" android:hint="Internet or Offline Transfer" android:inputType="0x1" android:imeOptions="0x6" />
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="9. Which of the following online sites can you search to locate Bisu Communities in Obanliku?" />
+		<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Udacity" />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Google" />
+			<RadioButton android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Andela" />
+		</RadioGroup>
+		<TextView android:textSize="16sp" android:textColor="16afca" android:id="false" android:paddingTop="16dp" android:layout_width="-2" android:layout_height="-2" android:text="10. What are the economic/commercial Activities in the area??" />
+		<EditText android:id="false" android:layout_width="351dp" android:layout_height="-2" android:hint="Farming, Trading, Transport Services, Educational Services, Hospitality etc." android:inputType="0x1" android:imeOptions="0x6" />
+		<Button android:textColor="fff7da" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Submit Answers" android:onClick="submitAnswers" />
+	</LinearLayout>
+</ScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+	<item android:duration="3000" android:drawable="res/drawable-v24/image1.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image2.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image3.jpeg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image4.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image5.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image6.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image7.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image8.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image9.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image10.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image11.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image12.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image13.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image14.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image15.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image16.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image17.jpg" />
+	<item android:duration="3000" android:drawable="res/drawable-v24/image19.jpg" />
+</animation-list>

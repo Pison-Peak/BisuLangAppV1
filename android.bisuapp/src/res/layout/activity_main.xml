@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="1" android:background="fff7da" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:id="false" android:background="fd8e9" android:text="Numbers" style="resourceId:0x7f0e00a4" />
+		<TextView android:id="false" android:background="379237" android:text="Family Members" style="resourceId:0x7f0e00a4" />
+		<TextView android:id="false" android:background="880a0" android:text="Colors" style="resourceId:0x7f0e00a4" />
+		<TextView android:id="false" android:background="16afca" android:text="Phrases" style="resourceId:0x7f0e00a4" />
+		<TextView android:id="false" android:background="880a0" android:text="About" style="resourceId:0x7f0e00a4" />
+		<TextView android:id="false" android:background="fd8e9" android:text="Quick Catch" style="resourceId:0x7f0e00a4" />
+		<TextView android:id="false" android:background="379237" android:text="Quiz" style="resourceId:0x7f0e00a4" />
+	</LinearLayout>
+</ScrollView>

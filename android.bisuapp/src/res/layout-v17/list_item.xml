@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="fff7da" android:layout_width="-1" android:layout_height="88dp" android:minHeight="88dp">
+	<ImageView android:id="false" android:layout_width="88dp" android:layout_height="88dp" android:contentDescription="Icon launcher" />
+	<LinearLayout android:orientation="1" android:id="false" android:paddingLeft="16dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="88dp" android:layout_toRightOf="false" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:paddingStart="16dp" android:layout_toEndOf="false" android:layout_alignParentEnd="true">
+		<TextView android:textAppearance="{2:16842817}" android:textStyle="0x1" android:textColor="resourceId:0x106000b" android:gravity="0x50" android:id="false" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}" />
+		<TextView android:textAppearance="{2:16842817}" android:textColor="resourceId:0x106000b" android:gravity="0x30" android:id="false" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}" />
+	</LinearLayout>
+	<ImageView android:layout_width="24dp" android:layout_height="24dp" android:layout_marginRight="26dp" android:src="res/drawable-v24/ic_play_arrow.png" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="Icon launcher" android:layout_marginEnd="26dp" android:layout_alignParentEnd="true" />
+</RelativeLayout>

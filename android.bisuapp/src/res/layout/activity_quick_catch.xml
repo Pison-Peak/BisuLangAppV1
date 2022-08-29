@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+	<Button android:textColor="fff7da" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Play" />
+	<Button android:textColor="fff7da" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Pause" />
+	<ImageView android:layout_gravity="0x1" android:id="false" android:paddingTop="10dp" android:layout_width="373dp" android:layout_height="290dp" android:contentDescription="Image Tour - The Mountain and Little Clue in Obanliku Cross River" />
+	<TextView android:layout_width="-1" android:layout_height="66dp" android:text="Bisu a tribe in Obanliku, Cross River, Nigeria The Ranch Resort is situated HERE popularly referred to as Obudu Cattle Ranch" />
+</LinearLayout>
